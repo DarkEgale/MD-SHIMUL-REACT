@@ -1,0 +1,10 @@
+
+#project{
+    padding-top: 60px;
+}
+.project_cards{
+    background: blue ;
+}
+.project_cards ::before{
+    background: blue ;
+}
